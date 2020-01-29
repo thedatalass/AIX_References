@@ -1,3 +1,12 @@
+Source Data:
+USDA Risk Management Agency Cause of Loss Historical Data: https://www.rma.usda.gov/SummaryOfBusiness/CauseOfLoss
+
+USDA Non Insured Crop Disaster Assistance Program (NAP) Tool: http://fsa.usapas.com/NAP.aspx
+NASA’s National Snow & Ice Data Center’s (NSIDC) Soil Moisture Active Passive Data: https://nsidc.org/data/smap/
+USDA Agricultural Census: https://www.nass.usda.gov/AgCensus/index.php
+Census State and County Shape Files: https://catalog.data.gov/dataset/tiger-line-shapefile-2016-state-nebraska-current-county-subdivision-state-based
+USGS Historical Flood Data: https://stn.wim.usgs.gov/fev/#CentralUSSpring2019
+
 Image References:
 https://storymaps.arcgis.com/stories/9ce70c78f5a44813a326d20035cab95a
 https://www.nrdc.org/experts/rob-moore/midwest-floods-2019-latest-disaster-learn
